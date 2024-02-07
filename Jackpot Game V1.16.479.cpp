@@ -24,7 +24,7 @@ int test(int num);
 int main(){
     system("@echo off");
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),15);
-    system("title Jackpot Game V1.6.211  pre-2");                 //Version
+    system("title Jackpot Game V1.16.479");                 //Version
     cout << "**          Jackpot Game        **\n";
     if(!ispre)
     	cout << "*        Version "<<ver<<"        *\n";
